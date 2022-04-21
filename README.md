@@ -1,2 +1,2 @@
-# IMDB-Rating-of-Indian-Movies
+# IndianMoviesImdb-PoweBi 
 Power BI Interactive Report on IMDB Rating of Indian Movies.

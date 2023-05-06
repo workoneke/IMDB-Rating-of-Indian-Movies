@@ -1,2 +1,4 @@
 # IndianMoviesImdb-PoweBi 
-Power BI Interactive Report on IMDB Rating of Indian Movies.
+Interactive Report on IMDB Rating of Indian Movies.
+
+Tools Used: Excel & Power BI.
